@@ -24,7 +24,7 @@ function Navbar() {
         </div>
         <div className='section2'>
           {token ? (
-            <button className="button">Log out</button>
+            <button className="button" onClick={handleLogout}>Log out</button>
           ):(
             <h1></h1>
           )}

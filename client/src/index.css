@@ -19,10 +19,11 @@
     background: linear-gradient(300deg, #1B1A55, #070F2B, #000000);
     background-size: 100%;
 }
-#{}
+
 body {
    
- 
+  background: linear-gradient(300deg, #1B1A55, #070F2B, #000000);
+  background-size: 100%;
   /* Centers the image */
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
